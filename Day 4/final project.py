@@ -43,4 +43,4 @@ elif choice==choice_computer:
 else:
     print(f"You chose : \n{list[choice]}")
     print(f"computer chose : \n{list[choice_computer]}")
-    print("======result = You win======")
+    print("=====result = You win=====")
