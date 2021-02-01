@@ -8,7 +8,7 @@ if BMI < 18.5 :
 elif BMI > 18.5 and BMI < 25:
     case = "normal weight"
 elif BMI > 25 and BMI < 30 :
-    case = "overweight"
+    case = "overweight "
 elif BMI > 30 and BMI < 35 :
     case = "obese"
 elif BMI > 35 :# you can replace this line into else
